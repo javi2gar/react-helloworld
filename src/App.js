@@ -12,6 +12,7 @@ class App extends Component {
             Edit <code>src/App.js</code> and save to reload.
             Esto es un comentario.
           </p>
+          <p>Esto es un nuevo comentario para poder comprobar los cambios automáticos</p>
           <a
             className="App-link"
             href="https://reactjs.org"
